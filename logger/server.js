@@ -1,3 +1,3 @@
 setInterval(() => {
-    console.log("This is logger service version 1.04 running...")
+    console.log("This is logger service version 1.05 running...")
 }, 3000)
